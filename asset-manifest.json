@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/m2c1solutions/static/css/main.68f1a98d.css",
-    "main.js": "/m2c1solutions/static/js/main.afac7ed8.js",
+    "main.css": "/m2c1solutions/static/css/main.f05e48a1.css",
+    "main.js": "/m2c1solutions/static/js/main.4c9fb362.js",
     "static/js/787.f8d18819.chunk.js": "/m2c1solutions/static/js/787.f8d18819.chunk.js",
+    "static/media/fondoD.png": "/m2c1solutions/static/media/fondoD.3196d20fb1da7ffc9532.png",
+    "static/media/fondoD2.png": "/m2c1solutions/static/media/fondoD2.e006f42250129c9fef2e.png",
     "static/media/Corporative.otf": "/m2c1solutions/static/media/Corporative.e64c6be8f15703fb4c48.otf",
     "static/media/Alfarn.otf": "/m2c1solutions/static/media/Alfarn.6b1af7402f4c6ba1e602.otf",
     "static/media/logo.svg": "/m2c1solutions/static/media/logo.f6c3c81cb1dfd01d900ee6f959a81278.svg",
     "index.html": "/m2c1solutions/index.html",
-    "main.68f1a98d.css.map": "/m2c1solutions/static/css/main.68f1a98d.css.map",
-    "main.afac7ed8.js.map": "/m2c1solutions/static/js/main.afac7ed8.js.map",
+    "main.f05e48a1.css.map": "/m2c1solutions/static/css/main.f05e48a1.css.map",
+    "main.4c9fb362.js.map": "/m2c1solutions/static/js/main.4c9fb362.js.map",
     "787.f8d18819.chunk.js.map": "/m2c1solutions/static/js/787.f8d18819.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.68f1a98d.css",
-    "static/js/main.afac7ed8.js"
+    "static/css/main.f05e48a1.css",
+    "static/js/main.4c9fb362.js"
   ]
 }
