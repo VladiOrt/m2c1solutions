@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/m2c1solutions/static/css/main.68f1a98d.css",
+    "main.js": "/m2c1solutions/static/js/main.7f8a4522.js",
+    "static/js/787.f8d18819.chunk.js": "/m2c1solutions/static/js/787.f8d18819.chunk.js",
+    "static/media/Corporative.otf": "/m2c1solutions/static/media/Corporative.e64c6be8f15703fb4c48.otf",
+    "static/media/Alfarn.otf": "/m2c1solutions/static/media/Alfarn.6b1af7402f4c6ba1e602.otf",
+    "static/media/logo.svg": "/m2c1solutions/static/media/logo.f6c3c81cb1dfd01d900ee6f959a81278.svg",
+    "index.html": "/m2c1solutions/index.html",
+    "static/media/footer1.svg": "/m2c1solutions/static/media/footer1.d806eb0ebdcfc3b9fcdc59fd113f8219.svg",
+    "static/media/footer2.svg": "/m2c1solutions/static/media/footer2.93264c1b53b32920c4ca12b64d630bab.svg",
+    "main.68f1a98d.css.map": "/m2c1solutions/static/css/main.68f1a98d.css.map",
+    "main.7f8a4522.js.map": "/m2c1solutions/static/js/main.7f8a4522.js.map",
+    "787.f8d18819.chunk.js.map": "/m2c1solutions/static/js/787.f8d18819.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68f1a98d.css",
+    "static/js/main.7f8a4522.js"
+  ]
+}
